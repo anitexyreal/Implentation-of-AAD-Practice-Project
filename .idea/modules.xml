@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAD_Phase_2_Practice_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/AAD_Phase_2_Practice_Project.iml" group="AAD_Phase_2_Practice_Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AAD_Phase_2_Practice_Project/app" />
+    </modules>
+  </component>
+</project>
